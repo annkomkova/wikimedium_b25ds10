@@ -229,6 +229,7 @@ nav.menubar a:hover {
   margin: 140px auto;
 }
 .fourthSection a {
+  font-size: 20px;
   text-decoration: none;
   color: grey;
   border: 1px solid #eee;
